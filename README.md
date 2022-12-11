@@ -1,4 +1,4 @@
-# WEMALONE
+# Project Name : WEMALONE
 
 - 대중적인 니치 향수 브랜드인 조말론 웹 사이트를 모델링 한 프로젝트입니다.
 - 첫 프로젝트로 product 관점에서 필수 기능 구현에 중점을 두었습니다.
@@ -6,7 +6,6 @@
 ## 개발인원 및 기간
 - Front-end 4명, back-end 2명
 - 2022/11/14 ~ 2022/11/25
-- [백엔드 깃허브 링크](https://github.com/wecode-bootcamp-korea/39-1st-jojoclub-backend)
 
 ## 프로젝트 선정 이유
 - 첫 프로젝트로 제품 필터링 등 여러 기능을 구현할 수 있는 사이트라고 생각되어 선정하게 되었습니다.
